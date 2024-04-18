@@ -23,8 +23,8 @@ devDependencies:
     specifier: ^3.2.12
     version: 3.2.12
   fs-extra:
-    specifier: ^11.1.0
-    version: 11.1.0
+    specifier: ^11.2.0
+    version: 11.2.0
   globby:
     specifier: 11.0.4
     version: 11.0.4
@@ -1060,8 +1060,8 @@ packages:
       is-callable: 1.2.7
     dev: false
 
-  /fs-extra@11.1.0:
-    resolution: {integrity: sha512-0rcTq621PD5jM/e0a3EJoGC/1TC5ZBCERW82LQuwfGnCa1V8w7dpYH1yNu+SLb6E5dkeCBzKEyLGlFrnr+dUyw==}
+  /fs-extra@11.2.0:
+    resolution: {integrity: sha512-PmDi3uwK5nFuXh7XDTlVnS17xJS7vW36is2+w3xcv8SVxiB4NyATf4ctkVY5bkSjX0Y4nbvZCq1/EjtEyr9ktw==}
     engines: {node: '>=14.14'}
     dependencies:
       graceful-fs: 4.2.10
