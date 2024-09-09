@@ -21,7 +21,7 @@
     "deploy": "./deploy.sh"
   },
   "dependencies": {
-    "dayjs": "^1.11.10",
+    "dayjs": "^1.11.13",
     "gitalk": "^1.8.0",
     "vue": "^3.4.23"
   }
