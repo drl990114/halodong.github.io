@@ -5,7 +5,7 @@
   "author": "drl990114 <drl990114@foxmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^20.12.7",
+    "@types/node": "^22.10.1",
     "fast-glob": "^3.2.12",
     "fs-extra": "^11.1.0",
     "globby": "11.0.4",
